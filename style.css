@@ -1,0 +1,56 @@
+html, body{
+  font-family: "Helvetica", sans-serif;
+  text-align: left;
+  margin: 30px auto;
+  background-color: floralwhite;
+  width:700px;
+}
+img{
+  margin : 20px auto;
+  display: block;
+  width: 100%;
+  max-width:100%;
+}
+ul{
+  margin: center;
+}
+li{
+  margin: auto;
+}
+
+#quote{
+  font-style: italic;
+  padding: auto;
+  margin:  left;
+  text-align: right;
+  
+}
+#quote-name{
+  font-style: italic;
+  text-align: right;  
+}
+h1 {
+  font-size: 30px;
+  
+}
+#main{
+  margin:30px auto;
+  border:0px solid;
+  border-radius:5px;
+}
+
+h1{
+  font-size: 40px;
+}
+p{
+  background-color:  ;
+}
+#title{
+  font-style: oblique;
+  font-size: 20px;
+  font-weight: bold;
+}
+img-caption{
+  text-align: center;
+  padding-bottom: 10px;
+}
